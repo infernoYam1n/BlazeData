@@ -1,0 +1,2 @@
+Hello, yamin!
+This file was created by a Python program.
